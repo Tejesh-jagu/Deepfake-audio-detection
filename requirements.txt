@@ -1,0 +1,9 @@
+streamlit
+librosa
+tensorflow>=2.10
+numpy
+scikit-learn
+matplotlib
+fastapi>=0.115.0
+uvicorn[standard]>=0.32.0
+python-multipart>=0.0.12
